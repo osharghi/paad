@@ -1,0 +1,12 @@
+#Step 1. Already have a file of cases from GDC and just want to perform transformation and analysis? If so, change value to '1' and continue to step 2. Else, leave value as '0' and continue to step 3.
+value:0
+
+#Step 2. If answered '1' to above, enter path to GDC cases csv file.
+path:none
+
+#Step 3. Enter top percentage of genes and mutations. If you would like top 5% of genes, enter '5' into the genes variable. If you would like top 5% of mutations, enter '5' into the mutations variable:
+genes:.02
+mutations:.02
+
+#Step 4. If you would like the query results from GDC saved locally (you can use this to utilize Step 1 above, #leave value as '1', otherwise change to '0'.
+value:1

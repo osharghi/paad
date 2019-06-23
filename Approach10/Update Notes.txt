@@ -1,0 +1,3 @@
+-Using consistent logs to keep user informed
+-Put a cap on number of mutations
+-Using insertion sort
